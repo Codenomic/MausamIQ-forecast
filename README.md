@@ -19,3 +19,9 @@ MausamIQ is a sleek and responsive weather forecast web app built using HTML, CS
 ⚡ Built with clean UI and interactive user experience 
 
 🔗 Powered by public Weather & AQI APIs
+
+![image](https://github.com/user-attachments/assets/c9409b85-f4fb-4493-ab38-0313613aef6a)
+
+
+![image](https://github.com/user-attachments/assets/fa7feeea-d1a8-4d20-9719-e217dc3df10b)
+
